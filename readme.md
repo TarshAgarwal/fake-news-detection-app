@@ -33,5 +33,5 @@ The app also includes a section displaying real samples from the test dataset â€
 ---
 
 ### ðŸ™Œ Acknowledgements  
-- Dataset: [Kaggle Fake News Dataset]
+- Dataset: (https://drive.google.com/file/d/1er9NJTLUA3qnRuyhfzuN0XUsoIC4a-_q/view)
 - Frontend: [Streamlit]
