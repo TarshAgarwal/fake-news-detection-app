@@ -32,16 +32,6 @@ The app also includes a section displaying real samples from the test dataset �
 
 ---
 
-### 🤝 Contributions  
-Got ideas or improvements? Feel free to **fork** this repo and open a **pull request**. Contributions are always welcome!
-
----
-
-### 📜 License  
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ### 🙌 Acknowledgements  
-- Dataset: [Kaggle Fake News Dataset](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset)  
-- Built with ❤️ using [Streamlit](https://streamlit.io)
+- Dataset: [Kaggle Fake News Dataset]
+- Frontend: [Streamlit]
